@@ -10,6 +10,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 3. Upload to CPAN using the `Acme::Free::API::` name space
 4. [Update wiki](https://github.com/oodler577/FreePublicPerlAPIs/wiki) with appropriate links
 5. Tell everybody!
+6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
 
 # Rules && Guidelines
 
