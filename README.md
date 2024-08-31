@@ -21,7 +21,7 @@ _See an example module on CPAN_ - [Acme::Free::API::Ye](https://metacpan.org/pod
 This is supposed to be easy and fun! This is not a race. It is a marathon.
 
 1. Make sure [the API you select](https://www.freepublicapis.com/) at not been [claimed](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
-2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and **API must require NO authentication mechanism**
+2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and stronkly recommendated that the **API requires NO authentication mechanism** (this is a giant PITA for everyone in this kind of effort) - but if you find one that you like and you want to deal with the auth, go for it!
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
 4. You MUST use the `Acme::Free::API::` name space on CPAN
 5. Complete POD is required. POD is not required, but it must render in `perldoc` and on MetaCPAN
