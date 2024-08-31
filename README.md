@@ -45,5 +45,6 @@ This is supposed to be easy and fun! This is not a race. It is a marathon.
 2. Q: Is there a main place to discuss this? A: NO
 3. Q: Is there a main point of contact for questions or clarifications? A: Best bet is to creat [an issue here](https://github.com/oodler577/FreePublicPerlAPIs/issues)
 4. Q: Who is the final arbiter in any disputes related to this fun thing? A: OODLER - but let's not make it come to that :-)
+5. Q: Is this just for Perl5 modules? A: **YES**
 
 # GOOD LUCK!
