@@ -5,7 +5,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 
 # How to participate
 
-1. Claim an API at the [wiki page](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
+1. Claim a [Free Public API](https://www.freepublicapis.com/) at the [wiki page](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Create API and client, show casing your skills and favorite idioms/modules
 3. Upload to CPAN using the `Acme::Free::API::` name space
 4. [Update wiki](https://github.com/oodler577/FreePublicPerlAPIs/wiki) with appropriate links
@@ -16,7 +16,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 This is supposed to be easy and fun!
 
 1. Make sure [the API you select](https://www.freepublicapis.com/) at not been [claimed](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
-2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and requires NO authentication mechanism
+2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and **API must require NO authentication mechanism**
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
 4. Complete POD is required. POD is not required, but it must render in `
 5. Installing the module must also install the client (so it's available via `PATH`) _and_ all dependencies.
@@ -27,6 +27,7 @@ This is supposed to be easy and fun!
 10. NO `TRIAL` module uploaded to CPAN
 11. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
 12. Modules must be _complete_ (hence the preference for `1.0.0`
+13. Modules and cli client must be _zero conf_ (no configuration files required)
 
 # FAQ
 
