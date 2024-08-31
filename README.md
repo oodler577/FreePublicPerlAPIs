@@ -1,5 +1,7 @@
 # FreePublicPerlAPIs
-List of Perl modules and clients for the web services listed at https://www.freepublicapis.com/
+List of Perl modules and clients for the web services listed at https://www.freepublicapis.com/.
+
+If you think your favorite or personal module, idiom, or paradigm is the best - prove it by creating the best [Free Public API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) Perl module!
 
 # How to participate
 
@@ -18,5 +20,13 @@ This is supposed to be easy and fun!
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
 4. Installing the module must also install the client (so it's available via `PATH`)
 5. ALL endpoints of the API must be implemented and used in some way by the cli client
-6. You must claim your API before you start working on it
+6. You must [claim your API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) before you start working on it
 7. There are no deadlines, but if your claim is clearly stale it can be scooped
+
+# FAQ
+
+1. Q: Will there be any voting? A: NO, the proof is in the pudding
+2. Q: Is there a main place to discuss this? A: NO
+3. Q: Is there a main point of contact for questions or clarifications? A: Best bet is to creat [an issue here](https://github.com/oodler577/FreePublicPerlAPIs/issues)
+
+# GOOD LUCK!
