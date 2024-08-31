@@ -14,7 +14,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 5. Tell everybody!
 6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
 
-[See an example of a module on CPAN](https://metacpan.org/pod/Acme::Free::API::Ye).
+_See an example module on CPAN_ - [Acme::Free::API::Ye](https://metacpan.org/pod/Acme::Free::API::Ye).
 
 # Rules && Guidelines
 
