@@ -18,19 +18,20 @@ This is supposed to be easy and fun!
 1. Make sure [the API you select](https://www.freepublicapis.com/) at not been [claimed](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and **API must require NO authentication mechanism**
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
-4. Complete POD is required. POD is not required, but it must render in `
-5. Installing the module must also install the client (so it's available via `PATH`) _and_ all dependencies.
-6. Dist::Zilla is strongly recommended, so please include any [dist.ini](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini) (see [example](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini)) in your CPAN upload!
-7. ALL endpoints of the API must be implemented and used in some way by the cli client
-8. You must [claim your API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) before you start working on it
-9. There are no deadlines, but if your claim is clearly stale it can be scooped
-10. NO `TRIAL` module uploaded to CPAN
-11. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
-12. Modules must be _complete_ (hence the preference for `1.0.0`
-13. Modules and cli client must be _zero conf_ (no configuration files required)
-14. You can use ChatGPT or whatever, but it must be clearly noted that you did this (and to what degree)
-15. External code that is not yours used must be attributed
-16. All code must be released with the Perl or similar licensing
+4. You MUST use the `Acme::Free::API::` name space on CPAN
+5. Complete POD is required. POD is not required, but it must render in `
+6. Installing the module must also install the client (so it's available via `PATH`) _and_ all dependencies.
+7. Dist::Zilla is strongly recommended, so please include any [dist.ini](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini) (see [example](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini)) in your CPAN upload!
+8. ALL endpoints of the API must be implemented and used in some way by the cli client
+9. You must [claim your API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) before you start working on it
+10. There are no deadlines, but if your claim is clearly stale it can be scooped
+11. NO `TRIAL` module uploaded to CPAN
+12. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
+13. Modules must be _complete_ (hence the preference for `1.0.0`
+14. Modules and cli client must be _zero conf_ (no configuration files required)
+15. You can use ChatGPT or whatever, but it must be clearly noted that you did this (and to what degree)
+16. External code that is not yours used must be attributed
+17. All code must be released with the Perl or similar licensing
 
 # FAQ
 
