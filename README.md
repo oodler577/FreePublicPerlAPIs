@@ -1,7 +1,7 @@
 # FreePublicPerlAPIs
 List of Perl modules and clients for the web services listed at https://www.freepublicapis.com/.
 
-If you think your favorite or personal module, idiom, or paradigm is the best - prove it by creating the best [Free Public API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) Perl module!
+If you think your favorite or personal module, idiom, or paradigm is the best - **_prove it_** by creating the best [Free Public API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) Perl module!
 
 # How to participate
 
