@@ -22,7 +22,7 @@ This is supposed to be easy and fun! This is not a race. It is a marathon.
 2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and **API must require NO authentication mechanism**
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
 4. You MUST use the `Acme::Free::API::` name space on CPAN
-5. Complete POD is required. POD is not required, but it must render in `
+5. Complete POD is required. POD is not required, but it must render in `perldoc` and on MetaCPAN
 6. Installing the module must also install the client (so it's available via `PATH`) _and_ all dependencies.
 7. Dist::Zilla is strongly recommended, so please include any [dist.ini](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini) (see [example](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini)) in your CPAN upload!
 8. ALL endpoints of the API must be implemented and used in some way by the cli client
@@ -31,10 +31,11 @@ This is supposed to be easy and fun! This is not a race. It is a marathon.
 11. NO `TRIAL` module uploaded to CPAN
 12. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
 13. Modules must be _complete_ (hence the preference for `1.0.0`
-14. Modules and cli client must be _zero conf_ (no configuration files required)
-15. You can use ChatGPT or whatever, but it must be clearly noted that you did this (and to what degree)
-16. External code that is not yours used must be attributed
-17. All code must be released with the Perl or similar licensing
+14. Modules must have at least 1 test in `t/`, as [trivial as it may be](https://metacpan.org/release/OODLER/Acme-Free-API-Ye-1.0.0/source/t/01-basic.t)
+15. Modules and cli client must be _zero conf_ (no configuration files required)
+16. You can use ChatGPT or whatever, but it must be clearly noted that you did this (and to what degree)
+17. External code that is not yours used must be attributed
+18. All code must be released with the Perl or similar licensing
 
 # FAQ
 
