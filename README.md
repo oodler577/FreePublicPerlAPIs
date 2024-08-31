@@ -28,6 +28,9 @@ This is supposed to be easy and fun!
 11. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
 12. Modules must be _complete_ (hence the preference for `1.0.0`
 13. Modules and cli client must be _zero conf_ (no configuration files required)
+14. You can use ChatGPT or whatever, but it must be clearly noted that you did this (and to what degree)
+15. External code that is not yours used must be attributed
+16. All code must be released with the Perl or similar licensing
 
 # FAQ
 
