@@ -16,7 +16,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 
 # Rules && Guidelines
 
-This is supposed to be easy and fun!
+This is supposed to be easy and fun! This is not a race. It is a marathon.
 
 1. Make sure [the API you select](https://www.freepublicapis.com/) at not been [claimed](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and **API must require NO authentication mechanism**
@@ -38,7 +38,7 @@ This is supposed to be easy and fun!
 
 # FAQ
 
-1. Q: Will there be any voting? A: NO, the proof is in the pudding
+1. Q: Will there be any voting or picking of some kind of winner? A: **NO**, the proof is in the pudding
 2. Q: Is there a main place to discuss this? A: NO
 3. Q: Is there a main point of contact for questions or clarifications? A: Best bet is to creat [an issue here](https://github.com/oodler577/FreePublicPerlAPIs/issues)
 4. Q: Who is the final arbiter in any disputes related to this fun thing? A: OODLER - but let's not make it come to that :-)
