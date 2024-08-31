@@ -18,10 +18,15 @@ This is supposed to be easy and fun!
 1. Make sure [the API you select](https://www.freepublicapis.com/) at not been [claimed](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Make sure to s[elect an API that is FREE](https://www.freepublicapis.com/) from [https://www.freepublicapis.com/](https://www.freepublicapis.com/) and requires NO authentication mechanism
 3. A complete entry consists of at least 1 Perl module and 1 commandline client with commands to use all API endpoints
-4. Installing the module must also install the client (so it's available via `PATH`)
-5. ALL endpoints of the API must be implemented and used in some way by the cli client
-6. You must [claim your API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) before you start working on it
-7. There are no deadlines, but if your claim is clearly stale it can be scooped
+4. Complete POD is required. POD is not required, but it must render in `
+5. Installing the module must also install the client (so it's available via `PATH`) _and_ all dependencies.
+6. Dist::Zilla is strongly recommended, so please include any [dist.ini](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini) (see [example](https://metacpan.org/release/OODLER/Acme-Free-API-Stonks-1.0.0/source/dist.ini)) in your CPAN upload!
+7. ALL endpoints of the API must be implemented and used in some way by the cli client
+8. You must [claim your API](https://github.com/oodler577/FreePublicPerlAPIs/wiki) before you start working on it
+9. There are no deadlines, but if your claim is clearly stale it can be scooped
+10. NO `TRIAL` module uploaded to CPAN
+11. Versions must start at `1.0.0` or _very near_ that if you anticipate some changes
+12. Modules must be _complete_ (hence the preference for `1.0.0`
 
 # FAQ
 
