@@ -9,7 +9,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 
 1. Claim a [Free Public API](https://www.freepublicapis.com/) at the [wiki page](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Create API and client, show casing your skills and favorite idioms/modules
-3. Upload to CPAN using the `Acme::Free::API::` name space
+3. Upload to CPAN (if you don't know where, use the `Acme::Free::API::` name space!)
 4. [Update wiki](https://github.com/oodler577/FreePublicPerlAPIs/wiki) with appropriate links
 5. Tell everybody!
 6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
