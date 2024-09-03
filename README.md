@@ -13,6 +13,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 4. [Update wiki](https://github.com/oodler577/FreePublicPerlAPIs/wiki) with appropriate links
 5. Tell everybody!
 6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
+7. You also may seek wisdom [here](https://www.perlmonks.org/?node_id=11161472) or [here](https://www.reddit.com/r/perl/comments/1f5e8jz/a_cordial_invitation_to_participate_in_growing/).
 
 _See an example module on CPAN_ - [Acme::Free::API::Ye](https://metacpan.org/pod/Acme::Free::API::Ye).
 
