@@ -9,11 +9,13 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 
 1. Claim a [Free Public API](https://www.freepublicapis.com/) at the [wiki page](https://github.com/oodler577/FreePublicPerlAPIs/wiki)
 2. Create API and client, show casing your skills and favorite idioms/modules
-3. Upload to CPAN (if you don't know where, use the `Acme::Free::API::` name space!)
+3. **Upload to CPAN** (if you don't know where, use the `Acme::Free::API::` name space!)
 4. [Update wiki](https://github.com/oodler577/FreePublicPerlAPIs/wiki) with appropriate links
 5. Tell everybody!
 6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
 7. You also may seek wisdom [here](https://www.perlmonks.org/?node_id=11161472) or [here](https://www.reddit.com/r/perl/comments/1f5e8jz/a_cordial_invitation_to_participate_in_growing/).
+
+**Note**: A module is not _complete_ until it's been uploaded to CPAN. This is not optional. Effectively this means your project will not be listed on CPAN or at the FreePublicAPI site.
 
 _See an example module on CPAN_ - [Acme::Free::API::Ye](https://metacpan.org/pod/Acme::Free::API::Ye).
 
