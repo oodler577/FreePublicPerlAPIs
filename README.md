@@ -47,5 +47,8 @@ This is supposed to be easy and fun! This is not a race. It is a marathon.
 3. Q: Is there a main point of contact for questions or clarifications? A: Best bet is to creat [an issue here](https://github.com/oodler577/FreePublicPerlAPIs/issues)
 4. Q: Who is the final arbiter in any disputes related to this fun thing? A: OODLER - but let's not make it come to that :-)
 5. Q: Is this just for Perl5 modules? A: **YES**
+6. Q: Do I have to use the `Acme::` name space? A: NO, but if you don't have a good one then use it - the project default is `Acme::Free::API::`
+7. Q: Do I have to use Github? A: Definitely NOT
+8. Q: Do I have to use `Dist::Zilla`? A: NO, but it is recommended since it helps you churn through creating & updating modules on CPAN like butter
 
 # GOOD LUCK!
