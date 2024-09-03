@@ -15,7 +15,7 @@ If you think your favorite or personal module, idiom, or paradigm is the best - 
 6. [Discussions](https://github.com/oodler577/FreePublicPerlAPIs/discussions) are enabled, keep it clean and germane.
 7. You also may seek wisdom [here](https://www.perlmonks.org/?node_id=11161472) or [here](https://www.reddit.com/r/perl/comments/1f5e8jz/a_cordial_invitation_to_participate_in_growing/).
 
-**Note**: A module is not _complete_ until it's been uploaded to CPAN. This is not optional. Effectively this means your project will not be listed on CPAN or at the FreePublicAPI site.
+**Note**: A module is not considered _complete_ until it's been uploaded to CPAN. This is not optional. Effectively this means your project will not be listed on CPAN or at the FreePublicAPI site.
 
 _See an example module on CPAN_ - [Acme::Free::API::Ye](https://metacpan.org/pod/Acme::Free::API::Ye).
 
